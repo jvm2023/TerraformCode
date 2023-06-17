@@ -1,0 +1,1 @@
+#this code is the usage of count and count index
