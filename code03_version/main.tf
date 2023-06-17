@@ -28,7 +28,7 @@ resource "azurerm_public_ip" "example" {
 resource "azurerm_bastion_host" "example" {
   name                = var.bastion_host
   location            = var.location
-  resource_group_name = var.prod_bastion_host
+  resource_group_name = var.res_grp_name
 
   ip_configuration {
     name                 = "configuration"
