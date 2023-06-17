@@ -7,7 +7,7 @@ variable "res_grp_name" {
 
 variable "location" {
     description = "locationname"
-    type = stirng
+    type = string
   
 }
 
