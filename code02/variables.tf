@@ -1,11 +1,14 @@
 variable "resource_grp_name" {
-    default = "demorg_westeurope123456"
+    description = "name of resource grp"
+    type = string
   
 }
 
 
 variable "location" {
-    default = "West Europe"
+    description = "location"
+    type = string
+
   
 }
 
