@@ -1,2 +1,3 @@
 #TERRAFORM CODE TO DEMONSTRATE USE OF variables.tf and terraform.tfvars
 #clone repo and add entry in terraform.tfvars and run the code 
+# cose02 folder demonstare usage of variables.tf ,terraform.tfvars and use of lock file to lock the provide dependncy.
