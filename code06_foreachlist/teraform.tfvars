@@ -1,1 +1,1 @@
-names = ["WestEurope","NorthEurope","EastUS"]
+#names = ["WestEurope","NorthEurope","EastUS"]
