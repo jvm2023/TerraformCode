@@ -1,0 +1,1 @@
+names = ["West Europe","North Europe","East US"]
