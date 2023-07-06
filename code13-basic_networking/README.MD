@@ -1,0 +1,1 @@
+basic terraform code to understand depency of networking 
