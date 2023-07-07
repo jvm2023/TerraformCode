@@ -1,0 +1,4 @@
+THIS CODE PROVIDES USE OF RANDOM AS STORAGE ACCOUNT NAME SHOULD BE UNIQUE ACCROSS AZURE CLOUD PLATFORM
+ALSO USE OF substr function
+ALSO use of join function
+also check for interpolation in locals 
